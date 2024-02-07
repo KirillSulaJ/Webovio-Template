@@ -5,7 +5,7 @@
 
 header {
     padding: 24px 164px;
-    background-image: url(./img/NewBg.svg);
+    background: url(./img/NewBg.svg);
     min-height: 800px;
     background-repeat: repeat-x;
 }
