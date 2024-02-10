@@ -8,6 +8,7 @@ header {
     background-image: url(./img/NewBg.svg);
     min-height: 800px;
     background-repeat: repeat-x;
+    background: url(../img/headerBg.svg);
 }
 nav {
     display: flex;
