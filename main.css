@@ -5,7 +5,7 @@
 
 header {
     padding: 24px 164px;
-    background: url(../img/NewBg.svg);
+    background: url(./img/NewBg.svg);
     min-height: 800px;
     background-repeat: repeat-x;
 }
@@ -154,7 +154,7 @@ header .triangle:hover, header .triangle a:hover {
  }
 
  footer {
-   background: url(../img/Bg.svg);
+   background: url(./img/Bg.svg);
    padding: 0px 166px;
    padding-top: 310px;
  }
